@@ -1,0 +1,28 @@
+:root{
+    --text-color:rgb(101, 116, 107);
+}
+
+*{
+Margin:0;
+Padding:0;
+Box-sizing: border-box;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+html,body{
+Width:100%;
+Height:100%;
+}
+::-webkit-scrollbar{
+    width:.6rem;
+}
+::-webkit-scrollbar-thumb{
+    background: rgb(11, 143, 92);
+}
+::-webkit-scrollbar-track{
+    background: rgb(168, 9, 89);
+}
+/* #Home{
+    background-image: url("https://images.unsplash.com/photo-1617791160512-45c186e50c5a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEyfHx8ZW58MHx8fHx8");
+} */
